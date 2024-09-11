@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBGRx89Xt9vxstDBMtmEp74xb20mp4L6B4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>20262441761</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.jlbFoods.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>jlb-foods</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jlb-foods.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:20262441761:ios:0ae446fa0ef9d4e116a460</string>
+</dict>
+</plist>
